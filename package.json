@@ -1,0 +1,26 @@
+{
+  "name": "mern-stack-app-starter-code",
+  "version": "1.0.0",
+  "description": "This is starter code for any MERN stack app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hacetheworld/mern-stack-app-starter-code.git"
+  },
+  "author": "ajay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hacetheworld/mern-stack-app-starter-code/issues"
+  },
+  "homepage": "https://github.com/hacetheworld/mern-stack-app-starter-code#readme",
+  "dependencies": {
+    "concurrently": "^5.1.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
